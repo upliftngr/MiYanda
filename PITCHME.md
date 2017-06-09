@@ -1,7 +1,7 @@
 
-
 # MICHEAL IYANDA
 <br>
+
 <strong><span style="color:black">Summary</span>
 <br>
 <span style="color:black">on</span>
@@ -9,7 +9,6 @@
 <span style="color:black">Andela Homestudy Curriculum</span></strong>
 
 ---
-
 ## Module 1
 <br>
 <i><u><strong><span style="color:blue">Introduction to Computer Science</span></strong></u></i>
@@ -22,11 +21,10 @@ A computer scientist’s goal is to develop an algorithm, a step-by-
 step list of instructions for solving any instance of the problem that might arise.
 
 ---
-
-
 ## Module 2
 <br>
 <i><u><strong><span style="color:blue">Introduction to Programming</span></strong></u></i>
+<br>
 <br>
 Programming is the process of taking an algorithm and encoding it into a notation, a programming
 language, so that it can be executed by a computer.
