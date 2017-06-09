@@ -18,18 +18,20 @@
 <p>Computer science is the study of problems, problem-solving, and the solutions that come out of the
 problem-solving process.
 <br>
-A computer scientist’s goal is to develop an algorithm, a stepby-
+A computer scientist’s goal is to develop an algorithm, a step-by-
 step list of instructions for solving any instance of the problem that might arise.
 
 ---
 
 
-### Module 2
+## Module 2
 <br>
 <span style="color:gray; font-size:0.6em;">Introduction to Programming</span>
 <br>
 Programming is the process of taking an algorithm and encoding it into a notation, a programming
 language, so that it can be executed by a computer.
+
+---
 
 ###Loops
 ```python
