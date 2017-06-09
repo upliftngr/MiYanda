@@ -12,7 +12,8 @@
 
 ## Module 1
 <br>
-<span style="color:gray">introduction to computer science</span>
+<strong><span style="color:blue">introduction to computer science</span></strong>
+<br>
 <br>
 Computer science is the study of problems, problem-solving, and the solutions that come out of the
 problem-solving process.
