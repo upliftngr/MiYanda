@@ -4,7 +4,7 @@
 
 
 <br>
-<span style="color:black">##Andela Homestudy Curriculum</span></strong>
+<h2><span style="color:black">Andela Homestudy Curriculum</span></strong></h2>
 
 ---
 ## Module 1
