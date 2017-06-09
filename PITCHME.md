@@ -102,5 +102,17 @@ print("Not turning at all")
 ```python
 class pet()
 	number_of_legs = 0
+	
+	def sleep(self):
+		print "zzzzzzzzzzzzzzzzzzz"
+		
+	def count_legs(self):
+		print "I have %s Legs " % self.number_of_legs
+dog = pet()
+dog.sleep()
+dog.number_of_legs = 4
+fish = pet()
+fish.number_of_legs = 0
+fish.count_legs()
 ---
 
