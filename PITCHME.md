@@ -2,11 +2,11 @@
 
 #### MICHEAL IYANDA
 <br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
+<span style="color:gray">Summary</span>
 <br>
 <span style="color:gray">on</span>
 <br>
-<span style="color:gray">GitHub, GitLab, Bitbucket, Gitea, and Gogs</span>
+<span style="color:gray">Andela Homestudy Curriculum</span>
 
 ---
 
