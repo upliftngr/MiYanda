@@ -10,9 +10,15 @@
 
 ---
 
-### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
+#### Module 1
 <br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+<span style="color:gray">introduction to computer science</span>
+<br>
+Computer science is the study of problems, problem-solving, and the solutions that come out of the
+problem-solving process.
+<br>
+A computer scientist’s goal is to develop an algorithm, a stepby-
+step list of instructions for solving any instance of the problem that might arise.
 
 ---
 
