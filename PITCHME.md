@@ -12,7 +12,7 @@
 
 ## Module 1
 <br>
-<u><strong><span style="color:blue">Introduction to Computer Science</span></strong></u>
+<i><u><strong><span style="color:blue">Introduction to Computer Science</span></strong></u></i>
 <br>
 <br>
 <p>Computer science is the study of problems, problem-solving, and the solutions that come out of the
@@ -26,7 +26,7 @@ step list of instructions for solving any instance of the problem that might ari
 
 ## Module 2
 <br>
-<span style="color:gray; font-size:0.6em;">Introduction to Programming</span>
+<i><u><strong><span style="color:blue">Introduction to Programming</span></strong></u></i>
 <br>
 Programming is the process of taking an algorithm and encoding it into a notation, a programming
 language, so that it can be executed by a computer.
