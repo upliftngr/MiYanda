@@ -111,9 +111,9 @@ class pet()
 dog = pet()
 dog.sleep()
 dog.number_of_legs = 4
-fish = pet()
-fish.number_of_legs = 0
-fish.count_legs()
+snake = pet()
+snake.number_of_legs = 0
+snake.count_legs()
 ```
 
 
