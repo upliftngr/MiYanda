@@ -1,6 +1,6 @@
 
 
-#### Get the word out
+#### MICHEAL IYANDA
 <br>
 <span style="color:gray">Markdown Presentations For Everyone</span>
 <br>
