@@ -31,13 +31,13 @@ step list of instructions for solving any instance of the problem that might ari
 Programming is the process of taking an algorithm and encoding it into a notation, a programming
 language, so that it can be executed by a computer.
 
-####Loops
+###Loops
 ```python
 for i in 2, 4, 6, 8
 print (i)
 ```
 ---
-####Challenge
+###Challenge 1
 Can you make a range equivalent to [2, 4, 6, 8]
 <br>
 ```python
@@ -51,7 +51,7 @@ print (even)
 ```
 
 ---
-####Variable
+###Variable
 <br>
 variable can be used to manipulate values inside code.
 ```python
@@ -62,7 +62,7 @@ print(total)
 ```
 <br>
 ---
-####Challenge
+###Challenge 2
 <br>
 Can you make a one line Python statement that uses both sum and range to print the sum of the numbers 1
 through 10?
@@ -74,7 +74,7 @@ print sum (range (1,10))
 <br>
 ---
 
-####Functions
+###Functions
 <br>
 ```python
 def say_hello_to(name):
@@ -83,7 +83,7 @@ say_hello_to("Miranda")
 say_hello_to("Fred")
 ```
 ---
-####Conditional
+###Conditional
 <br>
 ```python
 angle = 5
@@ -96,7 +96,7 @@ print("Not turning at all")
 ```
 
 ---
-####Module 3
+###Module 3
 <span style="color:gray; font-size:0.6em;">Object Oriented Programming</span>
 **class**
 
