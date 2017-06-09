@@ -1,6 +1,6 @@
 
 
-## MICHEAL IYANDA
+# MICHEAL IYANDA
 <br>
 <span style="color:gray">Summary</span>
 <br>
@@ -10,7 +10,7 @@
 
 ---
 
-### Module 1
+## Module 1
 <br>
 <span style="color:gray">introduction to computer science</span>
 <br>
