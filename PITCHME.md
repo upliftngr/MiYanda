@@ -2,11 +2,11 @@
 
 # MICHEAL IYANDA
 <br>
-<span style="color:gray">Summary</span>
+<span style="color:Red">Summary</span>
 <br>
-<span style="color:gray">on</span>
+<span style="color:black">on</span>
 <br>
-<span style="color:gray">Andela Homestudy Curriculum</span>
+<span style="color:black">Andela Homestudy Curriculum</span>
 
 ---
 
