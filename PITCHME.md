@@ -99,9 +99,8 @@ print("Not turning at all")
 <span style="color:gray; font-size:0.6em;">Object Oriented Programming</span>
 **class**
 
-``python
+```python
 class pet()
-#created a class named pet
 	number_of_legs = 0
 ---
 
