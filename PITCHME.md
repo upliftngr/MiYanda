@@ -31,7 +31,7 @@ language, so that it can be executed by a computer.
 
 ---
 
- ![###Loops](https://cdn.slidesharecdn.com/ss_thumbnails/loopstrome-150705061122-lva1-app6892-thumbnail-4.jpg?cb=1437672601)
+ ###Loops
 ```python
 for i in 2, 4, 6, 8
 print (i)
