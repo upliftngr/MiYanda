@@ -22,7 +22,6 @@ step list of instructions for solving any instance of the problem that might ari
 
 ---
 
----
 
 ### Module 2
 <br>
@@ -60,6 +59,7 @@ total = total + i
 print(total)
 ```
 <br>
+---
 ####Challenge
 <br>
 Can you make a one line Python statement that uses both sum and range to print the sum of the numbers 1
@@ -70,6 +70,7 @@ through 10?
 print sum (range (1,10))
 ```
 <br>
+---
 
 ####Functions
 <br>
@@ -79,6 +80,7 @@ def say_hello_to(name):
 say_hello_to("Miranda")
 say_hello_to("Fred")
 ```
+---
 ####Conditional
 <br>
 ```python
