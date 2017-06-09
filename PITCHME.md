@@ -115,5 +115,6 @@ dog.number_of_legs = 4
 fish = pet()
 fish.number_of_legs = 0
 fish.count_legs()
----
+```
+
 
