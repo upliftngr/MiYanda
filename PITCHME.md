@@ -96,6 +96,7 @@ print("Not turning at all")
 ---
 ###Module 3
 <span style="color:gray; font-size:0.6em;">Object Oriented Programming</span>
+<br>
 **class**
 
 ```python
