@@ -1,4 +1,4 @@
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
+
 
 #### Get the word out
 <br>
