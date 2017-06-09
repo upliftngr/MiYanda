@@ -12,10 +12,10 @@
 
 ## Module 1
 <br>
-<strong><span style="color:blue">introduction to computer science</span></strong>
+<strong><span style="color:blue">Introduction to Computer Science</span></strong>
 <br>
 <br>
-Computer science is the study of problems, problem-solving, and the solutions that come out of the
+<p>Computer science is the study of problems, problem-solving, and the solutions that come out of the
 problem-solving process.
 <br>
 A computer scientist’s goal is to develop an algorithm, a stepby-
